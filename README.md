@@ -1,3 +1,6 @@
 <h1 align="center">
-  🎓 Corrector.ai - Empowering Educators to Focus on Inspiring, Not Just Grading
+  🎓 Corrector.ai 
 </h1>
+<p align="center">
+  "Empowering Educators to Focus on Inspiring, Not Just Grading"
+</p>
